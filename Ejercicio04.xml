@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE listaventas SYSTEM "Ejercicio04.dtd">
+<listaventas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio-04.xsd">
+    <venta>
+        <importe>55000</importe>
+        <comprador>Cristian</comprador>
+        <vendedor>Juanita</vendedor>
+        <fecha>2021-09-04</fecha>
+        <factura_codigo>04092021</factura_codigo>
+    </venta>
+</listaventas>
